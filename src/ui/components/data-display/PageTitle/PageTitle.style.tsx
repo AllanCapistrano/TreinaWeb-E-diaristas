@@ -1,4 +1,4 @@
-import { experimentalStyled as styled } from '@material-ui/core/styles';
+import { styled } from '@material-ui/core/styles';
 
 export const PageTitleContainer = styled('div')`
     margin: ${({ theme }) => theme.spacing(5) + ' ' + 0}; //40px 0
