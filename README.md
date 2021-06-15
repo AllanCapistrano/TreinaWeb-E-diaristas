@@ -4,6 +4,8 @@
 Repositório que contém o projeto desenvolvido durante o Workshop Multi-stack organizado pela [**TreinaWeb**](https://www.treinaweb.com.br/). <br />
 O projeto trata-se de uma platafora para a contratação de diarista.
 
+[Backend](https://github.com/AllanCapistrano/TreinaWeb-E-diaristas-backend)
+
 **🔗 Tecnologias utilizadas:**
 - [NextJS](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -20,9 +22,18 @@ O projeto trata-se de uma platafora para a contratação de diarista.
 
 1. Faça um Fork deste repositório (caso queira modificá-lo) ou somente clone este repositório;
 2. Instale o NodeJS e NPM clicando [neste link](https://nodejs.org/en/download/) (caso necessário);
-3. Após instalar o NodeJS e NPM, abra um terminal no diretório do projeto, e digite `yarn install`, para instalar as dependências do projeto;
-4. Depois, digite `npm update` para atualizar as dependências do projeto;
-5. Para iniciar o projeto, ainda com o terminal aberto no diretório do projeto, digite `npm run dev`.
+3. Após instalar o NodeJS e NPM, abra um terminal no diretório do projeto, e digite:
+```powershell
+npm install
+```
+4. Após as dependências do projeto estarem instaladas, digite:
+```powershell
+npm update
+```
+5. Para iniciar o projeto, ainda com o terminal aberto no diretório do projeto, digite:
+```powershell
+npm run dev
+```
 
 ------------
 
@@ -32,4 +43,4 @@ O projeto trata-se de uma platafora para a contratação de diarista.
 ------------
 
 ## ⚖️ Licença ##
-[MIT License](https://github.com/AllanCapistrano/TreinaWeb-E-diaristas/blob/main/LICENSE)
+[MIT License](https://github.com/AllanCapistrano/TreinaWeb-E-diaristas-frontend/blob/main/LICENSE)
